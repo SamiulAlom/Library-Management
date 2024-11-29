@@ -1,0 +1,11 @@
+C:\Users\Student\Source\Repos\library-management-system\Database\bin\Debug\net7.0\Database.deps.json
+C:\Users\Student\Source\Repos\library-management-system\Database\bin\Debug\net7.0\Database.dll
+C:\Users\Student\Source\Repos\library-management-system\Database\bin\Debug\net7.0\Database.pdb
+C:\Users\Student\Source\Repos\library-management-system\Database\obj\Debug\net7.0\Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Source\Repos\library-management-system\Database\obj\Debug\net7.0\Database.AssemblyInfoInputs.cache
+C:\Users\Student\Source\Repos\library-management-system\Database\obj\Debug\net7.0\Database.AssemblyInfo.cs
+C:\Users\Student\Source\Repos\library-management-system\Database\obj\Debug\net7.0\Database.csproj.CoreCompileInputs.cache
+C:\Users\Student\Source\Repos\library-management-system\Database\obj\Debug\net7.0\Database.dll
+C:\Users\Student\Source\Repos\library-management-system\Database\obj\Debug\net7.0\refint\Database.dll
+C:\Users\Student\Source\Repos\library-management-system\Database\obj\Debug\net7.0\Database.pdb
+C:\Users\Student\Source\Repos\library-management-system\Database\obj\Debug\net7.0\ref\Database.dll
